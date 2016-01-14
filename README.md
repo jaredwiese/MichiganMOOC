@@ -1,4 +1,4 @@
-# The University of Michigan MOOC
+# University of Michigan MOOC
 Programming for Everybody
 Dr. Charles Severance
 
